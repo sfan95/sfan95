@@ -5,6 +5,5 @@ I work at Neuroscape at UCSF, a lab that focuses on addressing memory loss and o
 
 I'm also currently a head TA for CS61A, where I help manage the course logistics and coordinate tutor coverage for 1800+ students.
 
-I am dedicated, hardworking, and love anything related to biotechnology, data science, or tech for social good.
-Please reach out to me at sherryfansf@berkeley.edu if you would like to talk!
+I love anything related to biotechnology, data science, or tech for social good -- please reach out to me at sherryfansf@berkeley.edu if you would like to talk!
 
